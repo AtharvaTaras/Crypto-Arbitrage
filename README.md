@@ -1,2 +1,3 @@
 # Crypto-Arbitrage
-Cryptocurrency Arbitrage Tracker
+Cryptocurrency Arbitrage Tracker  
+(Part of this project has been scrapped)  
